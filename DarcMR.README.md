@@ -1,6 +1,7 @@
 # The Social-Engineer Toolkit (SET)
-* Copyright :copyright: 2020
-* Written by: David Kennedy (ReL1K) @HackingDave 
+* Copyright :copyright: 2021
+* Written by: DarckMR (ReL1K) @HackingDarckMR 
+* We are modifying the system for everyone to configure. follow me on my social networks
 * Company: [TrustedSec](https://www.trustedsec.com)
 
 <br/>
